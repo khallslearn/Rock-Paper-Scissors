@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-RPS game
+Live Demo: https://khallslearn.github.io/Rock-Paper-Scissors/
