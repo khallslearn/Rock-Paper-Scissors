@@ -10,7 +10,7 @@ h1 {
   flex-direction: row;
   justify-content: center;
   position: relative;
-  right: 40px;
+  right: 20px;
 }
 .flex-container1 {
   display: flex;
@@ -23,6 +23,7 @@ button#rock {
   background-size: cover;
   height: 200px;
   width: 200px;
+  margin-right: 20px;
 }
 button#paper {
   background-image: url("./paper-clip-art-4.jpg");
@@ -35,6 +36,7 @@ button#scissors {
   background-size: cover;
   height: 200px;
   width: 200px;
+  margin-left: 20px;
 }
 button#reset {
   position: relative;
@@ -43,4 +45,16 @@ button#reset {
   height: 20px;
   background-color: red;
   color: white;
+  margin-top: 20px ;
+}
+#vs{
+margin: 20px;
+}
+section{
+  position: relative;
+  top: 200px;
+  left: 25%;
+  border: 2px solid black;
+  padding: 1px;
+  width: 1000px;
 }
